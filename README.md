@@ -16,6 +16,7 @@ h)16 (1,5 Mb/s je najbližje, kar lahko dosežem za 1 Mb/s)
 
 
 
+
 Predlog za izboljšavo navodil:
 
 2.)
