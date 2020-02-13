@@ -18,10 +18,10 @@ h)16 (1,5 Mb/s je najbližje, kar lahko dosežem za 1 Mb/s)
 
 Predlog za izboljšavo navodil:
 
-2)
+2.)
 Nastavitve za NVIC in GPIO se nahajajo v System View nad sliko pinout-a, poleg Pinout View
 
-3) 
+3.) 
 d) in e) bi lahko bili spojeni v en del, saj e) prikazuje kodo v celoti;
 v kodi pri e) je tiskarski škrat, HAL_SPI_Recieve bi moral biti HAL_SPI_Receive (poglejte "i" in "e")
 
